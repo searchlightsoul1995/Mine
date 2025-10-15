@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (patches: 5.43.0)",
-  "versionCode": 25,
-  "zipUrl": "https://github.com/searchlightsoul1995/Mine/releases/download/25/music-revanced-magisk-v8.10.52-arm-v7a.zip",
+  "version": "v8.10.52 (patches: 5.43.1)",
+  "versionCode": 26,
+  "zipUrl": "https://github.com/searchlightsoul1995/Mine/releases/download/26/music-revanced-magisk-v8.10.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/searchlightsoul1995/Mine/update/build.md"
 }
